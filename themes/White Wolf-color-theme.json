@@ -1,0 +1,14 @@
+{
+  "name": "White Wolf",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0d1117",
+    "editor.foreground": "#c9d1d9",
+    "activityBar.background": "#010409",
+    "sideBar.background": "#0d1117",
+    "statusBar.background": "#010409",
+    "titleBar.activeBackground": "#010409",
+    "titleBar.inactiveBackground": "#010409"
+  },
+  "tokenColors": []
+}
