@@ -1,0 +1,12 @@
+{
+  "iconDefinitions": {
+    "wolf": {
+      "iconPath": "../icons/wolf-head.svg"
+    }
+  },
+  "file": "wolf",
+  "folder": "wolf",
+  "folderExpanded": "wolf",
+  "rootFolder": "wolf",
+  "rootFolderExpanded": "wolf"
+}

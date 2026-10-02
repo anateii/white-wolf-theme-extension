@@ -18,6 +18,13 @@
         "uiTheme": "vs-dark",
         "path": "./themes/White Wolf-color-theme.json"
       }
+    ],
+    "iconThemes": [
+      {
+        "id": "white-wolf-icons",
+        "label": "White Wolf Icons",
+        "path": "./fileicons/white-wolf-icon-theme.json"
+      }
     ]
   },
   "scripts": {
