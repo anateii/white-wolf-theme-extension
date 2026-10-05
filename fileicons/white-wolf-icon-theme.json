@@ -1,12 +1,146 @@
 {
   "iconDefinitions": {
-    "wolf": {
-      "iconPath": "../icons/wolf-head-metallic.svg"
+    "wolf-default": {
+      "iconPath": "../icons/wolf-head-black.svg"
+    },
+    "folder-wolf": {
+      "iconPath": "../icons/wolf-head.svg"
+    },
+    "javascript": {
+      "iconPath": "../icons/javascript.svg"
+    },
+    "typescript": {
+      "iconPath": "../icons/typescript.svg"
+    },
+    "css": {
+      "iconPath": "../icons/css.svg"
+    },
+    "html": {
+      "iconPath": "../icons/html.svg"
+    },
+    "ruby": {
+      "iconPath": "../icons/ruby.svg"
+    },
+    "md": {
+      "iconPath": "../icons/markdown.svg"
+    },
+    "react": {
+      "iconPath": "../icons/react.svg"
+    },
+    "images": {
+      "iconPath": "../icons/images.svg"
+    },
+    "json": {
+      "iconPath": "../icons/json.svg"
+    },
+    "lock": {
+      "iconPath": "../icons/lock.svg"
+    },
+    "yml": {
+      "iconPath": "../icons/yml.svg"
+    },
+    "secret": {
+      "iconPath": "../icons/secret.svg"
+    },
+    "ignore": {
+      "iconPath": "../icons/ignore.svg"
+    },
+    "docs": {
+      "iconPath": "../icons/docs.svg"
+    },
+    "fonts": {
+      "iconPath": "../icons/fonts.svg"
+    },
+    "vscode": {
+      "iconPath": "../icons/vscode.svg"
+    },
+    "archives": {
+      "iconPath": "../icons/archives.svg"
     }
   },
-  "file": "wolf",
-  "folder": "wolf",
-  "folderExpanded": "wolf",
-  "rootFolder": "wolf",
-  "rootFolderExpanded": "wolf"
+  "file": "wolf-default",
+  "folder": "folder-wolf",
+  "folderExpanded": "folder-wolf",
+  "rootFolder": "folder-wolf",
+  "rootFolderExpanded": "folder-wolf",
+  "fileExtensions": {
+    "js": "javascript",
+    "mjs": "javascript",
+    "jsx": "react",
+    "ts": "typescript",
+    "d.ts": "typescript",
+    "tsx": "react",
+    "css": "css",
+    "html": "html",
+    "rb": "ruby",
+    "md": "md",
+    "png": "images",
+    "svg": "images",
+    "jpg": "images",
+    "jpeg": "images",
+    "gif": "images",
+    "ico": "images",
+    "webp": "images",
+    "bmp": "images",
+    "tiff": "images",
+    "heic": "images",
+    "heif": "images",
+    "avif": "images",
+    "raw": "images",
+    "json": "json",
+    "lock": "lock",
+    "yml": "yml",
+    "yaml": "yml",
+    "env": "secret",
+    "key": "secret",
+    "gitignore": "ignore",
+    "dockerignore": "ignore",
+    "npmignore": "ignore",
+    "prettierignore": "ignore",
+    "eslintignore": "ignore",
+    "stylelintignore": "ignore",
+    "editorconfig": "ignore",
+    "gitattributes": "ignore",
+    "babelrc": "ignore",
+    "eslintrc": "ignore",
+    "stylelintrc": "ignore",
+    "prettierrc": "ignore",
+    "gitmodules": "ignore",
+    "yarnrc": "ignore",
+    "yarnlock": "ignore",
+    "npmrc": "ignore",
+    "envrc": "ignore",
+    "txt": "docs",
+    "doc": "docs",
+    "pdf": "docs",
+    "docx": "docs",
+    "ppt": "docs",
+    "pptx": "docs",
+    "xls": "docs",
+    "xlsx": "docs",
+    "csv": "docs",
+    "mdx": "docs",
+    "rst": "docs",
+    "log": "docs",
+    "woff": "fonts",
+    "woff2": "fonts",
+    "ttf": "fonts",
+    "eot": "fonts",
+    "otf": "fonts",
+    "vscode": "vscode",
+    "code-workspace": "vscode",
+    "vsix": "vscode",
+    "zip": "archives",
+    "tar": "archives",
+    "gz": "archives",
+    "rar": "archives",
+    "7z": "archives",
+    "bz2": "archives",
+    "xz": "archives"
+  },
+
+  "fileNames": {
+    "package.json": "../icons/package.svg",
+    "tsconfig.json": "../icons/typescript.svg"
+  }
 }
