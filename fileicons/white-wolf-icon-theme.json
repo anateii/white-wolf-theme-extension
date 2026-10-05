@@ -1,7 +1,7 @@
 {
   "iconDefinitions": {
     "wolf": {
-      "iconPath": "../icons/wolf-head.svg"
+      "iconPath": "../icons/wolf-head-metallic.svg"
     }
   },
   "file": "wolf",

@@ -1,7 +1,8 @@
 {
   "name": "white-wolf",
-  "displayName": "White Wolf",
+  "displayName": "White Wolf - Witcher edition",
   "description": "Dark & gritty Witcher-inspired theme with a wolf companion",
+  "icon": "icons/wolf-logo.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.140.0"
@@ -9,7 +10,9 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
   "main": "./dist/extension.js",
   "contributes": {
     "themes": [
