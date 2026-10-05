@@ -7,8 +7,8 @@
     "editorLineNumber.foreground": "#4a5560",
     "editorLineNumber.activeForeground": "#8b9aab",
     "editorCursor.foreground": "#c23b3b",
-    "editor.selectionBackground": "#2a1f1f",
-    "editor.inactiveSelectionBackground": "#1a1515",
+    "editor.selectionBackground": "#5c242866",
+    "editor.inactiveSelectionBackground": "#1a151580",
     "editorIndentGuide.background1": "#1c2128",
     "editorIndentGuide.activeBackground1": "#3a4550",
 
@@ -25,7 +25,7 @@
     "sideBarSectionHeader.foreground": "#d4a373",
 
     "statusBar.background": "#0d1117",
-    "statusBar.foreground": "#8b9aab",
+    "statusBar.foreground": "#d4a373",
     "statusBar.noFolderBackground": "#050608",
     "statusBarItem.remoteBackground": "#c23b3b",
 
