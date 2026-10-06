@@ -2,9 +2,6 @@
 
 A dark and gritty Witcher-inspired theme for VS Code, with custom wolf icons and a small wolf companion in the status bar.
 
-<img width="1583" height="944" alt="image" src="https://github.com/user-attachments/assets/0637e3ba-b67a-4269-9625-9b7d08563dbc" />
-
-
 ## Features
 
 - Dark charcoal color theme
