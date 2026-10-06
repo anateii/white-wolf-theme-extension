@@ -1,9 +1,10 @@
 {
   "name": "white-wolf",
   "displayName": "White Wolf - Witcher edition",
+  "publisher": "anateii",
   "description": "Dark & gritty Witcher-inspired theme with a wolf companion",
   "icon": "icons/wolf-logo.png",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.140.0"
   },
