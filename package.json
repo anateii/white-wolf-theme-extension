@@ -4,9 +4,9 @@
   "publisher": "anateii",
   "description": "Dark & gritty Witcher-inspired theme with a wolf companion",
   "icon": "icons/wolf-logo.png",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
-    "vscode": "^1.140.0"
+    "vscode": "^1.80.0"
   },
   "repository": {
     "type": "git",
