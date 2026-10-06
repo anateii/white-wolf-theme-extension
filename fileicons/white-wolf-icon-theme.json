@@ -1,61 +1,61 @@
 {
   "iconDefinitions": {
     "wolf-default": {
-      "iconPath": "../icons/wolf-head-black.svg"
+      "iconPath": "/assets/wolf-head.png"
     },
     "folder-wolf": {
-      "iconPath": "../icons/wolf-head.svg"
+      "iconPath": "/assets/wolf-head.png"
     },
     "javascript": {
-      "iconPath": "../icons/javascript.svg"
+      "iconPath": "/assets/javascript.png"
     },
     "typescript": {
-      "iconPath": "../icons/typescript.svg"
+      "iconPath": "/assets/typescript.png"
     },
     "css": {
-      "iconPath": "../icons/css.svg"
+      "iconPath": "/assets/css.png"
     },
     "html": {
-      "iconPath": "../icons/html.svg"
+      "iconPath": "/assets/html.png"
     },
     "ruby": {
-      "iconPath": "../icons/ruby.svg"
+      "iconPath": "/assets/ruby.png"
     },
     "md": {
-      "iconPath": "../icons/markdown.svg"
+      "iconPath": "/assets/markdown.png"
     },
     "react": {
-      "iconPath": "../icons/react.svg"
+      "iconPath": "/assets/react.png"
     },
     "images": {
-      "iconPath": "../icons/images.svg"
+      "iconPath": "/assets/images.png"
     },
     "json": {
-      "iconPath": "../icons/json.svg"
+      "iconPath": "/assets/json.png"
     },
     "lock": {
-      "iconPath": "../icons/lock.svg"
+      "iconPath": "/assets/lock.png"
     },
     "yml": {
-      "iconPath": "../icons/yml.svg"
+      "iconPath": "/assets/yml.png"
     },
     "secret": {
-      "iconPath": "../icons/secret.svg"
+      "iconPath": "/assets/secret.png"
     },
     "ignore": {
-      "iconPath": "../icons/ignore.svg"
+      "iconPath": "/assets/ignore.png"
     },
     "docs": {
-      "iconPath": "../icons/docs.svg"
+      "iconPath": "/assets/docs.png"
     },
     "fonts": {
-      "iconPath": "../icons/fonts.svg"
+      "iconPath": "/assets/fonts.png"
     },
     "vscode": {
-      "iconPath": "../icons/vscode.svg"
+      "iconPath": "/assets/vscode.png"
     },
     "archives": {
-      "iconPath": "../icons/archives.svg"
+      "iconPath": "/assets/archives.png"
     }
   },
   "file": "wolf-default",
@@ -75,7 +75,6 @@
     "rb": "ruby",
     "md": "md",
     "png": "images",
-    "svg": "images",
     "jpg": "images",
     "jpeg": "images",
     "gif": "images",
@@ -140,7 +139,7 @@
   },
 
   "fileNames": {
-    "package.json": "../icons/package.svg",
-    "tsconfig.json": "../icons/typescript.svg"
+    "package.json": "../assets/package.png",
+    "tsconfig.json": "../assets/typescript.png"
   }
 }
