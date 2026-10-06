@@ -4,7 +4,7 @@
   "publisher": "anateii",
   "description": "Dark & gritty Witcher-inspired theme with a wolf companion",
   "icon": "/assets/wolf-logo.png",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -31,7 +31,7 @@
       {
         "id": "white-wolf-assets",
         "label": "White Wolf assets",
-        "path": "./fileassets/white-wolf-icon-theme.json"
+        "path": "./fileicons/white-wolf-icon-theme.json"
       }
     ]
   },
