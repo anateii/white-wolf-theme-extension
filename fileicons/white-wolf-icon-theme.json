@@ -1,61 +1,61 @@
 {
   "iconDefinitions": {
     "wolf-default": {
-      "iconPath": "/assets/wolf-head.png"
+      "iconPath": "../assets/wolf-head.png"
     },
     "folder-wolf": {
-      "iconPath": "/assets/wolf-head.png"
+      "iconPath": "../assets/wolf-head.png"
     },
     "javascript": {
-      "iconPath": "/assets/javascript.png"
+      "iconPath": "../assets/javascript.png"
     },
     "typescript": {
-      "iconPath": "/assets/typescript.png"
+      "iconPath": "../assets/typescript.png"
     },
     "css": {
-      "iconPath": "/assets/css.png"
+      "iconPath": "../assets/css.png"
     },
     "html": {
-      "iconPath": "/assets/html.png"
+      "iconPath": "../assets/html.png"
     },
     "ruby": {
-      "iconPath": "/assets/ruby.png"
+      "iconPath": "../assets/ruby.png"
     },
     "md": {
-      "iconPath": "/assets/markdown.png"
+      "iconPath": "../assets/markdown.png"
     },
     "react": {
-      "iconPath": "/assets/react.png"
+      "iconPath": "../assets/react.png"
     },
     "images": {
-      "iconPath": "/assets/images.png"
+      "iconPath": "../assets/images.png"
     },
     "json": {
-      "iconPath": "/assets/json.png"
+      "iconPath": "../assets/json.png"
     },
     "lock": {
-      "iconPath": "/assets/lock.png"
+      "iconPath": "../assets/lock.png"
     },
     "yml": {
-      "iconPath": "/assets/yml.png"
+      "iconPath": "../assets/yml.png"
     },
     "secret": {
-      "iconPath": "/assets/secret.png"
+      "iconPath": "../assets/secret.png"
     },
     "ignore": {
-      "iconPath": "/assets/ignore.png"
+      "iconPath": "../assets/ignore.png"
     },
     "docs": {
-      "iconPath": "/assets/docs.png"
+      "iconPath": "../assets/docs.png"
     },
     "fonts": {
-      "iconPath": "/assets/fonts.png"
+      "iconPath": "../assets/fonts.png"
     },
     "vscode": {
-      "iconPath": "/assets/vscode.png"
+      "iconPath": "../assets/vscode.png"
     },
     "archives": {
-      "iconPath": "/assets/archives.png"
+      "iconPath": "../assets/archives.png"
     }
   },
   "file": "wolf-default",
